@@ -1,4 +1,4 @@
-urllib3==1.26.6
+urllib3==1.26.18
 requests==2.31.0
 requests-jwt==0.5.3
 PyJWT==2.4.0
